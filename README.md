@@ -1,4 +1,4 @@
-#Frontend Mentor Challenge #1 
+# Frontend Mentor Challenge #1 
 
 This is the first component challenge from frontendmentor.io where I was tasked to
 create to mimic QR Code Component design with fixed parameters such as:
